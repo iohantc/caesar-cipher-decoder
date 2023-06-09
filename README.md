@@ -1,6 +1,6 @@
 # Caesar Cipher Decoder
 
-This is a simple project for a Caesar cipher decoder application. The project has been built using Python and [FastText](https://github.com/facebookresearch/fastText), a library for efficient learning of word representations and sentence classification. The application includes the following main functionalities:
+This is a simple project for a brute force based Caesar cipher decoder application. The project has been built using Python and [FastText](https://github.com/facebookresearch/fastText), a library for efficient learning of word representations and sentence classification. The application includes the following main functionalities:
 
   1. Decode a Caesar ciphered text into natural language
   2. Output the decrypted text
